@@ -1,0 +1,29 @@
+{
+  "name": "floats.css",
+  "version": "0.0.1",
+  "homepage": "http://mrmrs.github.io/floats",
+  "description": "Never write css that floats an element again.",
+  "keywords": [
+    "oocss",
+    "css",
+    "rwd",
+    "responsive design",
+    "design"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mrmrs/floats.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrmrs/floats/issues"
+  }
+  "author": {
+    "name": "mrmrs",
+    "email": "hi@mrmrs.cc",
+    "url": "http://mrmrs.cc"
+  },
+  "contributors": [
+    { "name": "adam morse", "email": "hi@mrmrs.cc" }
+  ]
+  "license": "MIT"
+}
