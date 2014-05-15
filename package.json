@@ -16,7 +16,7 @@
   },
   "bugs": {
     "url": "https://github.com/mrmrs/floats/issues"
-  }
+  },
   "author": {
     "name": "mrmrs",
     "email": "hi@mrmrs.cc",
@@ -24,6 +24,6 @@
   },
   "contributors": [
     { "name": "adam morse", "email": "hi@mrmrs.cc" }
-  ]
+  ],
   "license": "MIT"
 }
