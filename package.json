@@ -1,6 +1,6 @@
 {
   "name": "floats.css",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "http://mrmrs.github.io/floats",
   "description": "Never write css that floats an element again.",
   "keywords": [
